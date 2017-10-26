@@ -1,3 +1,5 @@
+Hello world!
+
 # Trumbochat
 
 Un tchat qui est simple, pas très utile, mais c'est suffisant pour comprendre le fonctionnement des websockets avec Socket.io
